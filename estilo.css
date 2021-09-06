@@ -1,0 +1,116 @@
+
+.social-icons{
+float: right;
+}
+
+.social-icons a{
+color:white;
+float: left;
+margin-left: 20px;
+}
+
+.social-icons .fa-facebook:hover{
+color: #3b5998;
+}
+
+.social-icons .fa-twitter:hover{
+color: #3b5998
+}
+
+.social-icons .fa-instagram:hover{
+color: red;
+}
+
+.social-icons .fa-youtube:hover{
+color: red;
+}
+
+.cornavebar{
+color: aqua;
+}
+
+
+.titulomusica{
+color:red;
+font-weight: bold;
+text-align:center;
+font-size: 32px;
+}
+
+.descricao{
+color: black;
+font-weight: bold;
+text-align: center;
+font-size: 15px;  
+}
+
+.player{
+width: 10%;
+height: 10%;  
+align-items: initial; 
+}
+
+
+.logonovo img{
+width: 24%;
+border-radius: 4px;
+margin: 0 14px  14px 0;
+}
+
+.titulocompra{
+color:red;
+font-weight: bold;
+text-align:center;
+font-size: 32px;
+}
+
+.botaocomprar{
+color:blue;
+font-weight: bold;
+text-align:center;
+font-size: 25px;
+}
+
+
+.videosnovo{
+width: 5px;
+height:5px;    
+}
+
+.tituloinicial{
+text-align: center;
+font-weight: bold;
+font-size: 30px;
+color: black;    
+}
+
+
+.descricaoinicial{
+padding-left: 40px;
+font-style: normal;
+font-weight:bolder;
+font-size: 20px;
+text-align:center;
+color: red;
+padding-left: 70px;
+padding-right: 70px;
+}
+
+.rodapedeservicos{
+margin-top: 150px;
+width: 30%;
+float:initial;
+padding: 0px 8%;
+margin-bottom: 0px;
+} 
+
+.button{
+    font-style: normal;
+    text-align:right;
+    font-size: 26px;
+    border-radius:10px;
+    padding-left: 10px;
+    color: white;
+    
+}
+
